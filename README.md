@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: [https://main--{repo}--{owner}.aem.page/](https://main--aem-demo--sagar1dahiwala.aem.page/)
+- Live: [https://main--{repo}--{owner}.aem.live/](https://main--aem-demo--sagar1dahiwala.aem.live/)
 
 ## Documentation
 
